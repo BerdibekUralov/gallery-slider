@@ -1,13 +1,10 @@
 #  🖼️ Responsive Image Gallery Slider
-## [Watch it on youtube](https://youtu.be/h_R7A0CfUbo)
 ### 🖼️ Responsive Image Gallery Slider
 
-- Responsive Image Gallery Slider Using HTML CSS & JavaScript (SwiperJs)
-- Includes image thumbnails.
-- With CSS effects on swipe.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+- Адаптивный слайдер галереи изображений с использованием HTML CSS и JavaScript (SwiperJs)
+- Включает миниатюры изображений.
+- С CSS-эффектами при свайпе.
+- Сначала разрабатывался по методологии Mobile First, а затем для настольных компьютеров.
+- Совместим со всеми мобильными устройствами и имеет красивый и приятный пользовательский интерфейс.
 
 ![preview img](/preview.png)
