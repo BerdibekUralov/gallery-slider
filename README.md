@@ -1,4 +1,5 @@
 #  🖼️ Responsive Image Gallery Slider
+## [Смотри на netlify](https://gallery-s1ider.netlify.app)
 ### 🖼️ Responsive Image Gallery Slider
 
 - Адаптивный слайдер галереи изображений с использованием HTML CSS и JavaScript (SwiperJs)
